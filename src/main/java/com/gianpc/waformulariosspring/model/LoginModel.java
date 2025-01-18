@@ -9,4 +9,5 @@ import lombok.Setter;
 public class LoginModel {
     private String usuario;
     private String password;
+
 }
